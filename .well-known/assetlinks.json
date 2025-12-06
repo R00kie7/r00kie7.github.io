@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rookiedev.giftswap",
+    "sha256_cert_fingerprints": [
+      "44:19:FC:88:45:AC:02:DF:CE:DE:63:3B:C6:EA:A7:F6:EB:BC:0C:29:7D:53:49:31:5D:B5:4B:28:FD:E5:3D:84"
+    ]
+  }
+}]
